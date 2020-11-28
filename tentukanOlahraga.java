@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kaloriOlahraga {
+public class tentukanOlahraga {
     public static void main(String[] args) {
       Scanner kaloriO = new Scanner(System.in);
       
