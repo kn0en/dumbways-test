@@ -17,6 +17,8 @@ public class kaloriOlahraga {
       System.out.println("Jumlah kalori dari makanan kamu?");
       kaloriMakanan = kaloriO.nextFloat();
 
+      System.out.println();
+      
       if(kaloriMakanan >= 750){
         System.out.println("Dari data makanan dan jumlah kalori makanan yang kamu masukkan." +
         "\nNama makanan: " + namaMakanan +
